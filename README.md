@@ -1,4 +1,10 @@
-My Awesome Book
+Problem Misaka mikoto
 =======
+**Solved by 331 teams.**
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+My friends like anime way too much . . . they decided that to give me an encoded message, but I can't solve it because I'm not a weeb!
+
+hint:railguns are cool
+
+
+Solution: "rail" cipher
