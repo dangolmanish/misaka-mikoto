@@ -6,5 +6,7 @@ My friends like anime way too much . . . they decided that to give me an encoded
 
 hint:railguns are cool
 
+Many people think about anime I guess same goes with me I tried with transposition cipher with many keys but none work than I look at hint nicely what it really say than I looked types of cipher where I get "rail" cipher and just in a click I get online decoder and decode the code. 
+
 
 Solution: "rail" cipher
